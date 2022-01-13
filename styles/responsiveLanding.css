@@ -1,172 +1,176 @@
-@media only screen and (max-width: 900px){ 
-    body{
-        font-size: 14px;
-    }
 
-    .top-layer, .back-layer{
-        height: 250px;
-        width: 300px;
-        padding: 20px;
-        margin-left: 10%;
-    }
-
-    .curv img{
-        height: 300px;
-    }
-
-    .rect-img{
-        width: 220px;
-        height: 220px;
-    }
-
-    .card{
-        width: 70%;
-        margin: 20px auto;
-    }
-
-    .form-div{
-        width: 50%;
-        margin: 15px auto;
-    }
-
-    input, textarea{
-        width: 200px;
-    }
-
-    textarea{
-        height: 80px;
-    }
-
+@media only screen and (max-width: 900px) {
+  body {
+    font-size: 14px;
   }
+
+  .top-layer,
+  .back-layer {
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+    margin-left: 10%;
+  }
+
+  .curv img {
+    height: 300px;
+  }
+
+  .rect-img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .card {
+    width: 70%;
+    margin: 20px auto;
+  }
+
+  .form-div {
+    width: 50%;
+    margin: 15px auto;
+  }
+
+  input,
+  textarea {
+    width: 200px;
+  }
+
+  textarea {
+    height: 80px;
+  }
+}
 
 @media only screen and (max-width: 600px) {
-    body{
-        font-size: 12px;
-    }
-    
-    .b-mark, .sb-mark, .gmark{
-        display: none;
-    }
-
-    .right{
-        margin-top: 10px !important;
-        margin-left: 0 !important;
-        margin-bottom: 20px;
-    }
-
-    .text-header{
-        font-size: 20px;
-        font-weight: 700;
-    }
-
-    .btn-lg, .btn-sm, .btn-md{
-       font-size: 12px;   
-    }
-
-    .top-layer, .back-layer{
-        height: 230px;
-    }
-
-    .word-div{
-        width: 80%;
-        margin: 0 auto;
-        letter-spacing: 1px;
-        padding-right: 10px;
-    }
-
-    .curv{
-      margin-bottom: -15px;
-    }
-
-    .curv img{
-        height: 240px;
-    }
-
-    .support{
-        width: 80%;
-        margin: 0 auto;
-    }
-    
-    .card{
-        width: 70%;
-        margin: 20px auto;    
-
-    }
-
-    .test-wrapper{
-        padding-left: 0 !important;
-    }
-
-    .test-wrapper img{
-       width: 80px;
-       height: 80px;
-      
-    }
-    
-    .form{
-        padding-top: 0 !important;
-    }
-
-    .form-div{
-        width: 60%;
-        margin: 0 auto;
-        height: 250px;
-        padding-top: 15px;
-        margin-bottom: 30px;
-    }
-
-    input, textarea{
-        width: 150px;
-    }
-
-    textarea{
-        height: 80px;
-    }
-
-    .form-btn{
-      font-size: 12px;
-    }
-
-    .address{
-        margin-bottom: 0 !important;
-    }
-
-    .donors h4{
-        font-size: 15px;
-    }
-
-    .acheive{
-        flex-direction: column;
-        justify-content: center;
-    }
-
-    .rect-img{
-        width: 250px;
-        height: 250px;
-        margin: 20px auto;
-    }
-
-    .owl-img{
-        width: 70% !important;
-        margin: 0 auto;
-    }
-
-    span[aria-label="Previous"]{
-        margin-left: 25px;
-     }
-     
-     span[aria-label="Next"]{
-        margin-right: 25px;  
-      }
-
-     .test-name{
-        margin-right: 40px !important;
-     }
-
-     .testimonial-text{
-         width: 80%;
-         margin: 0 auto;         
-     }
+  body {
+    font-size: 12px;
   }
 
- 
+  .b-mark,
+  .sb-mark,
+  .gmark {
+    display: none;
+  }
+
+  .right {
+    margin-top: 10px !important;
+    margin-left: 0 !important;
+    margin-bottom: 20px;
+  }
+
+  .text-header {
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .btn-lg,
+  .btn-sm,
+  .btn-md {
+    font-size: 12px;
+  }
+
+  .top-layer,
+  .back-layer {
+    height: 230px;
+  }
+
+  .word-div {
+    width: 80%;
+    margin: 0 auto;
+    letter-spacing: 1px;
+    padding-right: 10px;
+  }
+
+  .curv {
+    margin-bottom: -15px;
+  }
+
+  .curv img {
+    height: 240px;
+  }
+
+  .support {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .card {
+    width: 70%;
+    margin: 20px auto;
+  }
+
+  .test-wrapper {
+    padding-left: 0 !important;
+  }
+
+  .test-wrapper img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .form {
+    padding-top: 0 !important;
+  }
+
+  .form-div {
+    width: 60%;
+    margin: 0 auto;
+    height: 250px;
+    padding-top: 15px;
+    margin-bottom: 30px;
+  }
+
+  input,
+  textarea {
+    width: 150px;
+  }
+
+  textarea {
+    height: 80px;
+  }
+
+  .form-btn {
+    font-size: 12px;
+  }
+
+  .address {
+    margin-bottom: 0 !important;
+  }
+
+  .donors h4 {
+    font-size: 15px;
+  }
+
+  .acheive {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .rect-img {
+    width: 250px;
+    height: 250px;
+    margin: 20px auto;
+  }
+
+  .owl-img {
+    width: 70% !important;
+    margin: 0 auto;
+  }
+
+  span[aria-label="Previous"] {
+    margin-left: 25px;
+  }
+
+  span[aria-label="Next"] {
+    margin-right: 25px;
+  }
+
+  .test-name {
+    margin-right: 40px !important;
+  }
+
+  .testimonial-text {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
